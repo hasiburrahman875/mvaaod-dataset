@@ -3,7 +3,7 @@ This site contains the link to the augmented UAV dataset. We augmented the UAVs 
 
 The paper is available: https://ieeexplore.ieee.org/abstract/document/10440657
 
-Dataset Link (Release 01): [http://tinyurl.com/25c7a4ya](http://tinyurl.com/433akuwp) 
+Dataset Link (Release 01): [https://zenodo.org/records/24514131](https://zenodo.org/records/24514131) 
 
 To access the dataset through the provided link, kindly request the password by sending an email to mdhasir@clemson.edu.
 
