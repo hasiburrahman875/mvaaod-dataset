@@ -5,8 +5,6 @@ The paper is available: https://ieeexplore.ieee.org/abstract/document/10440657
 
 Dataset Link (Release 01): [https://zenodo.org/records/24514131](https://zenodo.org/records/24514131) 
 
-To access the dataset through the provided link, kindly request the password by sending an email to mdhasir@clemson.edu.
-
 [1] Citation Bibtex: 
 @INPROCEEDINGS{mmuav,
   author={Rahman, Md Hasibur and Madria, Sanjay},
